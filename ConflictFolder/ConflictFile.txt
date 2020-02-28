@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+What is required here 
+=======
 WTF is this
+>>>>>>> 0ce112b650ac732b6c6d5adc9a50ed1643197b23
